@@ -1,7 +1,6 @@
 # 👋 Ola, eu sou o Luca!
 
 - 📖 Atualmente estou aprendendo JavaScript e C
-//- 📖 Estou cursando Engenharia da Computação na UNB
 - 😃 Tenho sempre vontade de aprender cada vez mais
 #
 <div>
