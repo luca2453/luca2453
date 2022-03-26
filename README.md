@@ -1,7 +1,6 @@
 # 👋 Ola, eu sou o Luca!
 
-- 📖 Atualmente estou aprendendo JavaScript e C
-- 😃 Tenho sempre vontade de aprender cada vez mais
+- 📖 Atualmente estou aprendendo JavaScript, C e Python
 #
 <div>
   <a href="https://github.com/luca2453">
