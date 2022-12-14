@@ -2,11 +2,6 @@
 
 - 📖 Atualmente estou aprendendo JavaScript, C e Python
 #
-<div>
-  <a href="https://github.com/luca2453">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luca2453&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
   
 
 <!---
